@@ -1,0 +1,27 @@
+{
+  "format_version": "1.19.80",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "agg:gravity_cannon_r"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "key": {
+      "X": {
+        "item": "agg:gravity_pistol"
+      },
+      "#": {
+        "item": "ender_pearl"
+      }
+    },
+    "result": {
+      "item": "agg:gravity_cannon"
+    }
+  }
+}

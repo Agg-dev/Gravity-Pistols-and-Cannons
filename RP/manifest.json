@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§l§5Gravity Pistols and Cannons",
+    "description": "§l§2Works with any Addon!",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 10],
+    "uuid": "9571f6ce-b450-4c59-bb14-0f16a897561b"
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "4aca594b-0e6b-41b2-8eb5-9f16e129db39",
+      "version": [1, 0, 0]
+    }
+  ]
+}

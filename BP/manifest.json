@@ -1,0 +1,33 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "§2Works with any Addon!\n§uCreated by §4QuantumBE",
+    "name": "§l§5Gravity Pistols and Cannons",
+    "uuid": "2a441618-8926-4b28-a793-eba2a8595724",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 10]
+  },
+  "modules": [
+    {
+      "type": "script",
+      "entry": "scripts/gravity.js",
+      "language": "javascript",
+      "version": [1, 0, 0],
+      "uuid": "146921e7-c5d1-4c66-861c-cf175e436e6f"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.8.0"
+    },
+    {
+      "uuid": "9571f6ce-b450-4c59-bb14-0f16a897561b",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    // Enable achievements
+    "product_type": "addon"
+  }
+}

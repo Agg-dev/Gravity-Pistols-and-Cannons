@@ -1,0 +1,36 @@
+{
+  "format_version": "1.19.80",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "agg:gravity_pistol_r"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#O#",
+      "NXN",
+      "NAN"
+    ],
+    "key": {
+      "N": {
+        "item": "netherite_ingot"
+      },
+      "A": {
+        "item": "blaze_powder"
+      },
+      "X": {
+        "item": "redstone_block"
+      },
+      "#": {
+        "item": "amethyst_shard"
+      },
+      "O": {
+        "item": "ender_pearl"
+      }
+    },
+    "result": {
+      "item": "agg:gravity_pistol"
+    }
+  }
+}

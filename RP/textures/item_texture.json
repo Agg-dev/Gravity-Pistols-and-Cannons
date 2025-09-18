@@ -3,10 +3,13 @@
   "texture_name": "atlas.items",
   "texture_data": {
     "agg:gravity_pistol": {
-      "textures": "textures/agg/ggun"
+      "textures": "textures/.agg/ggun"
+    },
+    "agg:gravity_shotgun": {
+      "textures": "textures/.agg/ggun3"
     },
     "agg:gravity_cannon": {
-      "textures": "textures/agg/ggun2"
+      "textures": "textures/.agg/ggun2"
     }
   }
 }

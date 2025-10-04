@@ -10,10 +10,7 @@
 <h3 style="text-align: center;">3D gravity gun Recipes</h3>
 <p><img src="https://media.forgecdn.net/attachments/description/1346780/description_4a4f0c22-f667-4d1c-b193-1d29936e6581.png" alt="Recipe pistol" width="100%&quot;"></p>
 <p style="color: #f00;"><img src="https://media.forgecdn.net/attachments/description/1346780/description_65a0028f-b01a-41da-aa00-8510e2ea57eb.png" alt="Cannon recipe" width="100%"></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><img src="https://media.forgecdn.net/attachments/1346/573/mcpedl-webp.webp" alt="Example Usage modern"><img src="https://media.forgecdn.net/attachments/description/null/description_92d202f1-80b6-4dec-a649-4f554f6cb882.png" alt="Gravity Cannon" width="49%;margin:1vw;"><img src="https://media.forgecdn.net/attachments/description/null/description_2b58d14d-0292-4e83-b0a0-62f1387686be.png" alt="Gravity Gun" width="49%;margin:1vw;"></p>
-<p>This Add-On is <a style="color: #09f;" href="https://github.com/Agg-dev/Gravity-Pistols-and-Cannons" target="_blank" rel="nofollow noopener">Open source</a>.</p>
 <p><span style="text-align: center; background-color: rgba(10,100,255,0.6); color: #e5e5e5;">NEW!</span> Omega Gravity Shotgun</p>
 <p><img src="https://media.forgecdn.net/attachments/description/1346780/description_ce756ead-5344-48f6-9755-72802e104f9b.png" alt="Omega Gravity Shotgun Image" width="694" height="500"></p>
 <h2><span style="background-color: #28ea; color: #eee;">Update v6!</span></h2>

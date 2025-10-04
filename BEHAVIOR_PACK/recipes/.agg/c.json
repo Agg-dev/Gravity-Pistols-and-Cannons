@@ -1,0 +1,41 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "agg:gravity_cell"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "*X*",
+      "###"
+    ],
+    "key": {
+      "X": {
+        "item": "ender_pearl"
+      },
+      "#": {
+        "item": "redstone"
+      },
+      "*": {
+        "item": "glowstone"
+      }
+    },
+    "unlock": [
+      {
+        "item": "glowstone"
+      },
+      {
+        "item": "ender_pearl"
+      },
+      {
+        "item": "redstone"
+      }
+    ],
+    "result": {
+      "item": "agg:gravity_cell"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "agg:gravity_cannon_"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "key": {
+      "X": {
+        "item": "agg:gravity_pistol"
+      },
+      "#": {
+        "item": "ender_pearl"
+      }
+    },
+    "unlock": [
+      {
+        "item": "ender_pearl"
+      },
+      {
+        "item": "agg:gravity_pistol"
+      }
+    ],
+    "result": {
+      "item": "agg:gravity_cannon"
+    }
+  }
+}

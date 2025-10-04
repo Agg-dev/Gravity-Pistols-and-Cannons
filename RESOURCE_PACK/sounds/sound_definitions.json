@@ -1,0 +1,10 @@
+{
+  "agg.ggun": {
+    "min_distance": 10,
+    "max_distance": 20,
+    "category": "music",
+    "sounds": [
+      "sounds/.agg/ggun"
+    ]
+  }
+}

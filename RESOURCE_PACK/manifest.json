@@ -1,0 +1,43 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§l§5Gravity Pistols and Cannons",
+    "description": "§l§2Works with any Addon!",
+    "version": [
+      1,
+      4,
+      0
+    ],
+    "pack_scope": "world",
+    "min_engine_version": [
+      1,
+      21,
+      10
+    ],
+    "uuid": "a6cf99b8-dcd2-46b5-9857-ac57a2aea670"
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "86ed18be-17aa-407a-9a85-4160ee2d5f56",
+      "version": [
+        1,
+        4,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "1747db32-a45f-4963-b27a-0f4a5059e3df",
+      "version": [
+        1,
+        4,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "license": "GNU General Public License version 3"
+  }
+}

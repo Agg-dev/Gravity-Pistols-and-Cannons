@@ -1,0 +1,19 @@
+{
+  "format_version": "1.21.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "agg:gravity_gun_degraded",
+      "menu_category": {
+        "category": "equipment"
+      }
+    },
+    "components": {
+      "minecraft:icon": "agg:gravity_old",
+      "minecraft:display_name": {
+        "value": "§7Degraded Gravity gun§r"
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:hand_equipped": true
+    }
+  }
+}

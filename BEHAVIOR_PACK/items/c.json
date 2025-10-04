@@ -1,0 +1,18 @@
+{
+  "format_version": "1.21.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "agg:gravity_cell",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:icon": "agg:gravity_cell",
+      "minecraft:display_name": {
+        "value": "§bGravity Cell§r"
+      },
+      "minecraft:allow_off_hand": true
+    }
+  }
+}
